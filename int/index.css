@@ -1,0 +1,264 @@
+/* Add your custom styles here */
+
+/* Navbar Styles */
+
+.body
+{
+  padding-left: 100px;
+  padding: 100px;
+}
+/* header part */
+.header{
+  width: 1440px;
+  height: 80px;
+
+}
+
+/*  Writer*/
+.form-group
+{
+  border: #8064a2;
+  border-radius: 1rem;
+}
+.navbar-nav {
+  margin-left: auto;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 20px;
+}
+.input-with-image {
+  position: relative;
+}
+
+.input-with-image input {
+  padding-left: 40px; /* Adjust the padding based on your image size */
+  width: 300px; /* Adjust the width as needed */
+  border-radius: 1rem;
+  border: 1px #8064a2 solid;
+  margin-bottom: 10px;
+}
+
+.input-with-image img {
+  position: absolute;
+  left: 10px; /* Adjust the left position based on your preference */
+  top: 50%;
+  transform: translateY(-50%);
+  width: 20px; /* Adjust the width as needed */
+  height: 20px; /* Adjust the height as needed */
+}
+.i .btn2{
+  width:300px;
+  background: #8064a2;
+  color: aliceblue;
+}
+.sign
+{
+  width: 410px;
+height: 432px;
+top: 103px;
+left: 930px;
+gap: 32px;
+
+}
+
+
+.navbar-toggler {
+  border-color: white;
+}
+
+/* Header Styles */
+
+
+/* Writer Section Styles */
+.writer {
+  width: 580px;
+  height: 54px;
+  top: 100px;
+  left: 100px;
+  margin-left: 80px;
+}
+
+/* Container Styles */
+.cnt {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 45px;
+}
+
+/* Sign Section Styles */
+.sign {
+  margin-top: 0px;
+  width: 810px;
+  height: 432px;
+  top: 103px;
+  left: 930px;
+  gap: 32px;
+}
+.kl {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 80px;
+}
+
+  /*card  */
+
+.cd,
+.cc {
+  display: flex;
+  justify-content:space-around;
+
+}
+
+.cd {
+  margin-top: 200px;
+}
+
+.cdd ,.c1{
+  width: 608px;
+  height: 297px;
+  padding-left: 100px;
+  border-radius: 8px;
+  
+  
+}
+.cdd1,.c2
+{
+  width: 608px;
+  height: 297px;
+  top: 421px;
+  left: 732px;
+  border-radius: 8px;
+  border: 1px;
+  padding-right: 100px;
+
+}
+
+.contan .card-text{
+  width: 400px;
+  height: 81px;
+  top: 204px;
+  left: 776px;
+  
+}
+
+.btn {
+  color: #8064a2;
+  border: 1px #8064a2 solid;
+}
+.card-text {
+  width: 520px;
+  height: 81px;
+  top: 204px;
+  left: 776px;
+}
+
+/* own */
+
+.own {
+  width: 1090px;
+  height: 484px;
+  top: 100px;
+  margin-left: 130px;
+}
+.addown .card-text {
+  width: 884px;
+  height: 60px;
+}
+
+/* testimonal */
+
+.tst .card{
+  margin-left: 130px;
+  margin-top: 10px;
+}
+.tst .card {
+  width: 1090px;
+  height: 400px;
+  padding-top: 30px;
+  padding-left: 30px;
+  border-radius: 8px;
+}
+.tst .card-text {
+  width: 800px;
+  height: 180px;
+}
+.tst .fforp {
+  display: flex;
+  justify-content: space-between;
+}
+.voice img{
+  width: 550px;
+  height: 100px;
+  border-radius: 8px;
+}
+.pfs img{
+  width: 50px;
+  height: 100px;
+
+}
+
+.pfs{
+  padding-right: 50px;
+}
+.pfs span 
+{
+  font-style: italic;
+  padding-left: 20px;
+}
+
+
+/* contact */
+
+.contact {
+  padding-top: 100px;
+  padding-left: 90px;
+  width: 565px;
+  height: 130px;
+  border-radius: 8px;
+}
+
+.contact .btn {
+  background: #8064a2;
+  color: azure;
+}
+.contactimg {
+  display: flex;
+  padding-top: 130px;
+  padding-left: 100px;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+  width: 1217px;
+  height: 182px;
+  top: 60px;
+  left: 102px;
+  border-radius: 0px, 8px, 8px, 0px;
+  border: 1px;
+  padding-left: 100px;
+  padding-top: 120px;
+}
+ul {
+  list-style-type: none;
+}
+.f1 {
+  display: flex;
+  justify-content: space-around;
+}
+.info4 {
+  width: 360px;
+  height: 58px;
+  top: 60px;
+  left: 959px;
+}
+.f2 {
+  padding-top: 30px;
+  width: 360px;
+  height: 74px;
+  top: 168px;
+  left: 959px;
+  border-radius: 0px, 8px, 8px, 0px;
+  border: 1px;
+}
