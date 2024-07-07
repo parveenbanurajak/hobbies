@@ -6,12 +6,20 @@
 {
   padding-left: 100px;
   padding: 100px;
+  
+  
 }
 /* header part */
 .header{
   width: 1440px;
   height: 80px;
 
+}
+.txt{
+  padding-right: 550px;
+  width:350px;
+  height: 300px;
+  background: #8064a2;
 }
 
 /*  Writer*/
@@ -149,8 +157,7 @@ gap: 32px;
 .card-text {
   width: 520px;
   height: 81px;
-  top: 204px;
-  left: 776px;
+  
 }
 
 /* own */
@@ -158,17 +165,22 @@ gap: 32px;
 .own {
   width: 1090px;
   height: 484px;
-  top: 100px;
+  padding-top: 120px;
   margin-left: 130px;
 }
 .addown .card-text {
   width: 884px;
   height: 60px;
 }
+.headingofown{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #8064a2;
+}
 
 /* testimonal */
 
-.tst .card{
+/* .tst .card{
   margin-left: 130px;
   margin-top: 10px;
 }
@@ -205,16 +217,14 @@ gap: 32px;
 {
   font-style: italic;
   padding-left: 20px;
-}
+} */
 
 
 /* contact */
 
 .contact {
-  padding-top: 100px;
   padding-left: 90px;
   width: 565px;
-  height: 130px;
   border-radius: 8px;
 }
 
@@ -224,8 +234,8 @@ gap: 32px;
 }
 .contactimg {
   display: flex;
-  padding-top: 130px;
   padding-left: 100px;
+  padding-top: 20px;
 }
 
 .info {
@@ -238,7 +248,7 @@ gap: 32px;
   border-radius: 0px, 8px, 8px, 0px;
   border: 1px;
   padding-left: 100px;
-  padding-top: 120px;
+  padding-top: 50px;
 }
 ul {
   list-style-type: none;
@@ -250,15 +260,14 @@ ul {
 .info4 {
   width: 360px;
   height: 58px;
-  top: 60px;
   left: 959px;
 }
-.f2 {
-  padding-top: 30px;
+.f21{
   width: 360px;
   height: 74px;
-  top: 168px;
-  left: 959px;
+  padding-top: 30px;
   border-radius: 0px, 8px, 8px, 0px;
   border: 1px;
 }
+
+
